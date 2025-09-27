@@ -10,4 +10,5 @@ A simple dice game built with **Vanilla JavaScript**, **HTML**, and **CSS**.
 
 ## 🚀 Live Demo
 👉 [Play the game here](https://nrgfront.github.io/pig-game/)
+👉 https://pig-game-gilt-kappa.vercel.app/
 
